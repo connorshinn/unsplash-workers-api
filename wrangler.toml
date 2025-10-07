@@ -1,0 +1,9 @@
+name = "unsplash-workers-api"
+main = "src/index.js"
+compatibility_date = "2025-02-24"
+workers_dev = true
+preview_urls = true
+
+[[kv_namespaces]]
+id = "8e190aa17b8b485e8005cd7cb7399cf1"
+binding = "NAZKVHUBSTORE"
